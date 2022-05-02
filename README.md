@@ -7,7 +7,7 @@ Selon Microsoft, PowerApps est "une suite d’applications, de services, de conn
 Lorsque l'on se connecte sur PowerApps on arrive sur la page d'accueil.
 ![image](https://user-images.githubusercontent.com/104756641/166202889-8b1b54d3-aba5-4acd-be8b-5e0378e5e335.png)
 
-On peut ensuite cliquer sur "More data sources" pour ajouter une source de donnée personnalisée.
+On peut ensuite cliquer sur "More create options" puis "More data sources" pour ajouter une source de donnée personnalisée.
 
 On peut ensuite ajouter une nouvelle connexion.
 ![image](https://user-images.githubusercontent.com/104756641/166203165-fb0d8601-73ad-451f-8e34-50d772918639.png)
